@@ -64,6 +64,7 @@ Clean RESTful API structure
 
 
 📂 Project Structure
+
 com.saicharan.shipping
 │
 ├── controller
